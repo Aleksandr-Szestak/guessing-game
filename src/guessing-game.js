@@ -18,7 +18,6 @@ class GuessingGame {
 
         this.counter++;
         this.lastVal = averageVal;
-        //console.log(this.counter, averageVal);
 
         return averageVal;
     }
